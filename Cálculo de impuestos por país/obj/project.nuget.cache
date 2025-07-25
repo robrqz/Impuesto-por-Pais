@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "KuECctkB7G0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\roberto.panario2_kli\\Desktop\\mis proyectos c sharp\\Cálculo de impuestos por país\\Cálculo de impuestos por país\\Cálculo de impuestos por país.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\roberto.panario2_kli\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.7\\microsoft.extensions.dependencyinjection.9.0.7.nupkg.sha512",
+    "C:\\Users\\roberto.panario2_kli\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.7\\microsoft.extensions.dependencyinjection.abstractions.9.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}

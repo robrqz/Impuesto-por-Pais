@@ -1,0 +1,18 @@
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.csproj.AssemblyReference.cache
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.AssemblyInfoInputs.cache
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.AssemblyInfo.cs
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.csproj.CoreCompileInputs.cache
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Cálculo de impuestos por país.exe
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Cálculo de impuestos por país.deps.json
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Cálculo de impuestos por país.runtimeconfig.json
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Cálculo de impuestos por país.dll
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Cálculo de impuestos por país.pdb
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\C_lculo .B76E53FA.Up2Date
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.dll
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\refint\Cálculo de impuestos por país.dll
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.pdb
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\Cálculo de impuestos por país.genruntimeconfig.cache
+C:\Users\roberto.panario2_kli\Desktop\mis proyectos c sharp\Cálculo de impuestos por país\Cálculo de impuestos por país\obj\Debug\net8.0\ref\Cálculo de impuestos por país.dll
